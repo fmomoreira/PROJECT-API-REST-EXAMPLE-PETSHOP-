@@ -15,7 +15,7 @@ Esse comando ira instalar todas as dependencias do projeto.<br/><br/>
   você ira encontrar os dados dentro da pasta de infraestrutura/conexao.js.Então basta configurar o arquivo .env.example para que tudo funciona.<br/><br/>
 5 - Altere o nome do arquivo .env.example para .env somente<br/><br/>
 6 - Preencha as informações dentro deste arquivo .env e salve as alterações<br/><br/>
-7 - No terminal rode o seguinte comando:<br/><br/>
+7 - No terminal, dentro da pasta do projeto, rode o seguinte comando:<br/><br/>
   npm start
   <br/><br/>
 Se você fez todos os passos, seu banco esta criado e tudo configurado conforme as especificações, você tera sua API rodando na porta configurada e conectada com seu banco de dados.
